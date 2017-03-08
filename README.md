@@ -21,7 +21,7 @@ Do not show disrespect towards others. (Jokes, innuendo, dismissive attitudes.)
 - Disrespect towards differences of opinion.
 - Inappropriate attention or contact. Be aware of how your actions affect others. If it makes someone uncomfortable, stop.
 - Not understanding the differences between constructive criticism and disparagement.
-- Sustained disruptions.
+- Sustained disruptions including trolling.
 - Violence, threats of violence or violent language.
 
 ## Enforcement
